@@ -1,4 +1,3 @@
-# -Windows-API
+# Windows API
 
-
-Bu proje Windows-API lerinin kullanımı ve yardımcı olacak bazı Windows-API  lerin klavuzunu kullanılarak bir nevi denetim masassı oluşturmuştur  
+Bu proje, Windows işletim sisteminde çeşitli görevleri gerçekleştirmek için kullanılan Windows API işlevlerini kapsamlı bir şekilde kullanır
